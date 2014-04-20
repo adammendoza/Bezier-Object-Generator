@@ -1,4 +1,4 @@
-Bezier Curves
+Bezier Curves (http://www-inst.eecs.berkeley.edu/~cs184-fp/as3.html)
 
 The program reads in a Bezier (.bez) file and applies graphical tessellation to reconstruct the original object.
 
