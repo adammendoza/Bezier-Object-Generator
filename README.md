@@ -1,18 +1,16 @@
-Bezier Curves (http://www-inst.eecs.berkeley.edu/~cs184-fp/as3.html)
+Bezier Curves Generator   
 
-The program reads in a Bezier (.bez) file and applies graphical tessellation to reconstruct the original object.
+The program reads in a Bezier (.bez) file and applies graphical tessellation to reconstruct the original object.   
 
-"s" - toggle between flat and smooth shading. 
+"s" - toggle between flat and smooth shading.    
 
-"w" - toggle between filled and wireframe mode.
+"w" - toggle between filled and wireframe mode.   
 
-arrow keys - the object will be rotated.
+arrow keys - the object will be rotated.   
 
-shift+arrow keys - the object will be translated.
+shift+arrow keys - the object will be translated.   
 
-+/- - keys will zoom in/out.
-
-
++/- - keys will zoom in/out.   
 
 
 Sample example test inputs:
@@ -27,7 +25,6 @@ Adaptive (low res)
 
 Custom bezier file
 ./as3 next.bez 0.1
-
-
+ 
 No shading method
 ./as3 teapot.bez 0.1
